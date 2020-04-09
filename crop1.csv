@@ -1,0 +1,47 @@
+Crops,req rainfall(cm),temp( C ),Soil,Season,Cost
+Ragi,95,27,sandy,Kharif,2900
+Paddy,125,21,clay,Kharif,1800
+Wheat,50,19,clay,Rabi,1800
+Groundnut,63,25,loam,Rabi,4900
+Sesame,35,28,loam,Kharif,6000
+Hyacinth beans,75,21,loam,Kharif,2500
+Pigeon pea,100,30,loam,Kharif,5650
+Millet,50,28,loam,Kharif,2480
+Sunflower,36,25,loam,Whole Year,3550
+Maize,95,19,loam,Kharif,1700
+Coconut,175,27,aluvial,Whole Year,2600
+Horsegram,80,28,aluvial,Rabi,2800
+Mango,95,27,aluvial,Rabi,4500
+Banana,250,28,aluvial,Rabi,1900
+jackfruit,100,30,sandy,Rabi,4500
+tomato,80,22,sandy,Whole Year,1200
+Onion,65,22,sandy,Whole Year,2500
+Watermelon,70,23,sandy,Kharif,2200
+Jowar,40,28,sandy,Whole Year,2570
+Bajra,45,30,loam,Kharif,2000
+Castor seed,130,40,loam,Kharif,3900
+Cowpea(Lobia),110,30,loam,Kharif,4000
+Moong(Green Gram),65,29,loam,Kharif,6100
+Niger seed,120,25,clay,Kharif,5490
+ Mustard                                ,45,25,clay,Kharif,4400
+Urad,70,30,loam,Kharif,6000
+Sweet potato,90,30,loam,Whole Year,5500
+Turmeric,200,25,clay,Whole Year,3000
+Coriander,95,23,loam,Whole Year,1600
+Dry ginger,200,22,loam,Whole Year,5000
+Garlic,40,15,loam,Whole Year,2000
+Sugarcane,125,30,aluvial,Whole Year,3500
+Cabbage,90,18,sandy,Kharif,1100
+Beetroot,70,23,sandy,Kharif,1400
+Raddish,85,16,sandy,Whole Year,1100
+Ashgourd,100,28,loam,Whole Year,1100
+Papaya,135,13,sandy,Rabi,1300
+DrumStick,65,28,loam,Whole Year,2900
+Brinjal,100,25,sandy,Whole Year,1300
+Bittergourd,100,30,aluvial,Whole Year,3800
+Cucumber,95,20,sandy,Rabi,5500
+Knool Khol,100,22,sandy,Kharif,1800
+Snakegourd,75,32,sandy,Rabi,1400
+Suvarna Gadde,150,25,clay,Rabi,2500
+Cauliflower,125,21,loam,Whole Year,1200
+Ridgegourd,120,26,clay,Whole Year,3800
